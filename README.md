@@ -1,2 +1,2 @@
-# estudos
+# Estudos
 Repositório de estudos gerais
